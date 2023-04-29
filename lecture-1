@@ -1,0 +1,6 @@
+Types of LLM
+1. Base LLM: Just predict next words, para 
+2. Instruction Tuned LLM: Tries to follow instruction by 1) fine tunning o instruction and 2) RLHF 
+
+Writing clear and specific prompt does help  
+	

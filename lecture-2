@@ -1,0 +1,17 @@
+Two key principles 
+1. Clear and specific instruction
+2. Give model time to think 
+
+1.1 Use delimiters to clearly indicate distinct parts of the input. 
+1.2 Ask for structured output
+1.3 Check whether condictions are satisfied 
+1.4 Few shot prompting: Give successful examples of completing tasks then ask model to perform the task
+
+2.1 Specify the steps reqiored to complete a task
+2.2 Instruct the model to work out its own solution before rushing to a conclusion
+
+
+Model limitations:
+Hallucinations: Makes a statement which is not true.
+Reduce hallucinations : First find relevant information then answer the question based on the relevant information. 
+
